@@ -1,0 +1,25 @@
+body {
+    border: 5px solid black;
+}
+
+.edit1 {
+    color: #9e2a2b;
+    text-align: center;
+}
+
+.edit2 {
+    background-color: #335c67;
+    color: #fff3b0;
+}
+
+.card {
+    width: 500px;
+    background-color: #e09f3e;
+    text-align: center;
+}
+
+#dish-name {
+    color: #ffffff;
+    background-color: #335c67;
+    color: #fff3b0;
+}
